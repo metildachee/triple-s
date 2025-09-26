@@ -2,14 +2,13 @@
 
 This repository contains the resources for the paper **"Sticker Semantic Similarity Benchmark and General Sticker Encoder (GSE)"**.  
 
-We are uploading the dataset and weights....
-
 ---
 
 ## Repository Structure  
 
 - `weights/`  
-  Contains the trained weights for our General Sticker Encoder (GSE).  
+  Contains the trained weights for our General Sticker Encoder (GSE).
+  Download from [here](https://drive.google.com/file/d/1aql9DMz44Fgf708cxGHe7nSJl_7Axzi7/view?usp=sharing)
 
 - `dataset/`  
   Includes the benchmark data:  
